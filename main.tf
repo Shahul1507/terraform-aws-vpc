@@ -26,6 +26,7 @@ resource "aws_internet_gateway" "main" {
 
 }
 
+# Subnets
 # public subnet
 
 resource "aws_subnet" "public" {

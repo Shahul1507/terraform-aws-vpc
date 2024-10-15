@@ -1,5 +1,5 @@
 locals {
-  resource_name = "${var.project_name}-${var.environment}"
+  resource_name = "${var.project_name}-${var.environment}" # expense
 
 }
 locals {
